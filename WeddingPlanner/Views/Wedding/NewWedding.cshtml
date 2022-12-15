@@ -1,0 +1,58 @@
+@{
+    ViewData["Title"] = "New Wedding";
+}
+
+@model Wedding
+<h2 class="mb-5">Plan a Wedding</h2>
+
+<form asp-action="CreateWedding" asp-controller="Wedding" method="post">
+    <div class="row g-3 align-items-center mx-auto mb-3">
+        <div class="col-auto">
+            <label asp-for="WedderOne"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="WedderOne" class="form-control">
+        </div>
+    </div>
+    <div class="mb-3">
+        <span asp-validation-for="WedderOne" class="text-danger"></span>
+    </div>
+    <div class="row g-3 align-items-center mx-auto mb-3">
+        <div class="col-auto">
+            <label asp-for="WedderTwo"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="WedderTwo" class="form-control">
+        </div>
+    </div>
+    <div class="mb-3">
+        <span asp-validation-for="WedderTwo" class="text-danger"></span>
+    </div>
+    <div class="row g-3 align-items-center mx-auto mb-3">
+        <div class="col-auto">
+            <label asp-for="Date"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="Date" class="form-control">
+        </div>
+    </div>
+    <div class="mb-3">
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+    <div class="row g-3 align-items-center mx-auto mb-3">
+        <div class="col-auto">
+            <label asp-for="Address"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="Address" class="form-control">
+        </div>
+    </div>
+    <div class="mb-3">
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+    @{
+        int? UserId = Context.Session.GetInt32("UserId");
+        <input type="hidden" name="UserId" value=@UserId>
+    }
+    <button class="btn btn-primary mt-2">Create</button>
+</form>

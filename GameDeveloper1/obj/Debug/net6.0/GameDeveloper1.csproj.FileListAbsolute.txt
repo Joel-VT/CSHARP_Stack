@@ -1,0 +1,15 @@
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/bin/Debug/net6.0/GameDeveloper1
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/bin/Debug/net6.0/GameDeveloper1.deps.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/bin/Debug/net6.0/GameDeveloper1.runtimeconfig.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/bin/Debug/net6.0/GameDeveloper1.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/bin/Debug/net6.0/GameDeveloper1.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/obj/Debug/net6.0/GameDeveloper1.csproj.AssemblyReference.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/obj/Debug/net6.0/GameDeveloper1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/obj/Debug/net6.0/GameDeveloper1.AssemblyInfoInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/obj/Debug/net6.0/GameDeveloper1.AssemblyInfo.cs
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/obj/Debug/net6.0/GameDeveloper1.csproj.CoreCompileInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/obj/Debug/net6.0/GameDeveloper1.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/obj/Debug/net6.0/refint/GameDeveloper1.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/obj/Debug/net6.0/GameDeveloper1.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/obj/Debug/net6.0/GameDeveloper1.genruntimeconfig.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/GameDeveloper1/obj/Debug/net6.0/ref/GameDeveloper1.dll

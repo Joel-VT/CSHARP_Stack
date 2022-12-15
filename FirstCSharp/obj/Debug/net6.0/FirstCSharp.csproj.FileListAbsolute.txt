@@ -1,0 +1,15 @@
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/bin/Debug/net6.0/FirstCSharp
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/bin/Debug/net6.0/FirstCSharp.deps.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/bin/Debug/net6.0/FirstCSharp.runtimeconfig.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/bin/Debug/net6.0/FirstCSharp.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/bin/Debug/net6.0/FirstCSharp.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/obj/Debug/net6.0/FirstCSharp.csproj.AssemblyReference.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/obj/Debug/net6.0/FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/obj/Debug/net6.0/FirstCSharp.AssemblyInfoInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/obj/Debug/net6.0/FirstCSharp.AssemblyInfo.cs
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/obj/Debug/net6.0/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/obj/Debug/net6.0/FirstCSharp.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/obj/Debug/net6.0/refint/FirstCSharp.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/obj/Debug/net6.0/FirstCSharp.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/obj/Debug/net6.0/FirstCSharp.genruntimeconfig.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/FirstCSharp/obj/Debug/net6.0/ref/FirstCSharp.dll

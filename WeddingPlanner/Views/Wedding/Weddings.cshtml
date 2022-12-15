@@ -1,0 +1,48 @@
+@{
+    ViewData["Title"] = "Weddings Page";
+}
+@model List<Wedding>
+<table class="table table-striped text-center">
+    <thead>
+        <tr>
+            <th>Wedding of</th>
+            <th>Date</th>
+            <th>Guest Count</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Wedding one in Model)
+        {
+            <tr>
+                <td><a asp-action="OneWedding" asp-controller="Wedding" asp-route-id=@one.WeddingId class="text-decoration-none text-dark">@one.WedderOne & @one.WedderTwo</a></td>
+                <td>@one.Date.ToString("MMM dd yyyy")</td>
+                <td>@one.RSVPedGuests.Count</td>
+                <td>
+                    @{
+                        if (ViewBag.UserId == one.UserId)
+                        {
+                            <form asp-action="DestroyWedding" asp-controller="Wedding" asp-route-id=@one.WeddingId method="post">
+                                <button class="btn btn-link">Delete</button>
+                            </form>
+                        }
+                        else if(one.responded(ViewBag.UserId) == 0)
+                        {
+                            <form asp-action="CreateReservation" asp-controller="Wedding" method="post">
+                                <input type="hidden" name="UserId" value=@ViewBag.UserId>
+                                <input type="hidden" name="WeddingId" value=@one.WeddingId>
+                                <button class="btn btn-link text-decoration-none text-dark">RSVP</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <form asp-action="DestroyReservation" asp-controller="Wedding" asp-route-id=@one.responded(ViewBag.UserId) method="post">
+                                <button class="btn btn-link text-decoration-none text-dark">Un-RSVP</button>
+                            </form>
+                        }
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

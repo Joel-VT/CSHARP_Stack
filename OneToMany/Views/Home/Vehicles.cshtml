@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Vehicle Page";
+}
+@model MyViewModel
+<div class="text- center d-flex justify-content-around">
+    <div class="flex-1 m-2">
+        <h2>Add Vehicle</h2>
+        @await Html.PartialAsync("_AddVehicle", Model.Vehicle)
+    </div>
+    <div class="flex-1 m-2">
+        <h2>Add Vehicle</h2>
+        @foreach (Vehicle item in Model.AllVehicles)
+        {
+            <h4>@item.ModelName</h4>
+        }
+    </div>
+</div>

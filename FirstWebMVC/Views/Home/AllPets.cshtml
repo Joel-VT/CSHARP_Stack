@@ -1,0 +1,10 @@
+@model List<Pet>
+<h1>These are your pets</h1>
+@{
+    foreach (Pet item in Model)
+    {
+        <p>@item.Name</p>
+        <p>@item.Species</p>
+        <p>@item.Age</p>
+    }
+}

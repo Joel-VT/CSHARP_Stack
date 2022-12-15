@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome Y'all</h1>
+    <h2>All Non-PC Games</h2>
+    <table class="table table-striped">
+        <tr>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Genre</th>
+            <th>Platform</th>
+        </tr>
+        @foreach (Game g in ViewBag.AllPCGames)
+        {
+            <tr>
+                <td>@g.Title</td>
+                <td>@g.Price.ToString("C")</td>
+                <td>@g.Genre</td>
+                <td>@g.Platform</td>
+            </tr>
+        }
+    </table>
+    <h2>Ruben loves: @ViewBag.OneGame.Title</h2>
+    <h2>Top 3 Free Games</h2>
+    <table class="table table-striped">
+        <tr>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Genre</th>
+            <th>Platform</th>
+        </tr>
+        @foreach (Game g in ViewBag.Top3)
+        {
+            <tr>
+                <td>@g.Title</td>
+                <td>Free</td>
+                <td>@g.Genre</td>
+                <td>@g.Platform</td>
+            </tr>
+        }
+    </table>
+
+    <h3>The most expensive game costs: @ViewBag.MostExpensive.ToString("C")</h3>
+
+    <h3>Total Price is: @ViewBag.Total.ToString("C")</h3>
+
+    <h2>All Titles</h2>
+    <ul class="list-unstyled">
+        @foreach (string t in ViewBag.AllTitles)
+        {
+            <li>@t</li>
+        }
+    </ul>
+
+    <h2>Did I find the title? @{
+        if(ViewBag.MatchTitle == true)
+        {
+            <span>Yes, I found it</span>
+        }
+        else
+        {
+            <span>No luck</span>
+        }
+        }</h2>
+</div>

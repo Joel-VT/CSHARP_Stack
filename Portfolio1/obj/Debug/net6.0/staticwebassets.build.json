@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "1uEp/rVtJYLgeohRha3umNPDMlgcknUDN/+nimUFOXo=",
+  "Source": "Portfolio1",
+  "BasePath": "_content/Portfolio1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Portfolio1/wwwroot",
+      "Source": "Portfolio1",
+      "ContentRoot": "/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Portfolio1/wwwroot/",
+      "BasePath": "_content/Portfolio1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Portfolio1/wwwroot/images/closing.jpg",
+      "SourceId": "Portfolio1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Portfolio1/wwwroot/",
+      "BasePath": "_content/Portfolio1",
+      "RelativePath": "images/closing.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/closing.jpg"
+    },
+    {
+      "Identity": "/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Portfolio1/wwwroot/images/download.jpeg",
+      "SourceId": "Portfolio1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Portfolio1/wwwroot/",
+      "BasePath": "_content/Portfolio1",
+      "RelativePath": "images/download.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/download.jpeg"
+    },
+    {
+      "Identity": "/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Portfolio1/wwwroot/images/images.jpeg",
+      "SourceId": "Portfolio1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Portfolio1/wwwroot/",
+      "BasePath": "_content/Portfolio1",
+      "RelativePath": "images/images.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/images.jpeg"
+    },
+    {
+      "Identity": "/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Portfolio1/wwwroot/images/MichaelScott.png",
+      "SourceId": "Portfolio1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Portfolio1/wwwroot/",
+      "BasePath": "_content/Portfolio1",
+      "RelativePath": "images/MichaelScott.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MichaelScott.png"
+    }
+  ]
+}

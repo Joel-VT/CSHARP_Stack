@@ -1,0 +1,15 @@
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/bin/Debug/net6.0/LINQEruption
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/bin/Debug/net6.0/LINQEruption.deps.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/bin/Debug/net6.0/LINQEruption.runtimeconfig.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/bin/Debug/net6.0/LINQEruption.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/bin/Debug/net6.0/LINQEruption.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/obj/Debug/net6.0/LINQEruption.csproj.AssemblyReference.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/obj/Debug/net6.0/LINQEruption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/obj/Debug/net6.0/LINQEruption.AssemblyInfoInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/obj/Debug/net6.0/LINQEruption.AssemblyInfo.cs
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/obj/Debug/net6.0/LINQEruption.csproj.CoreCompileInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/obj/Debug/net6.0/LINQEruption.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/obj/Debug/net6.0/refint/LINQEruption.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/obj/Debug/net6.0/LINQEruption.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/obj/Debug/net6.0/LINQEruption.genruntimeconfig.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/LINQEruption/obj/Debug/net6.0/ref/LINQEruption.dll

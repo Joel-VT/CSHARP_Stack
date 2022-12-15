@@ -1,0 +1,15 @@
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/bin/Debug/net6.0/Fundamentals3
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/bin/Debug/net6.0/Fundamentals3.deps.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/bin/Debug/net6.0/Fundamentals3.runtimeconfig.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/bin/Debug/net6.0/Fundamentals3.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/bin/Debug/net6.0/Fundamentals3.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/obj/Debug/net6.0/Fundamentals3.csproj.AssemblyReference.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/obj/Debug/net6.0/Fundamentals3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/obj/Debug/net6.0/Fundamentals3.AssemblyInfoInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/obj/Debug/net6.0/Fundamentals3.AssemblyInfo.cs
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/obj/Debug/net6.0/Fundamentals3.csproj.CoreCompileInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/obj/Debug/net6.0/Fundamentals3.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/obj/Debug/net6.0/refint/Fundamentals3.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/obj/Debug/net6.0/Fundamentals3.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/obj/Debug/net6.0/Fundamentals3.genruntimeconfig.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Fundamentals3/obj/Debug/net6.0/ref/Fundamentals3.dll

@@ -1,0 +1,39 @@
+@model Vehicle
+<form asp-action="CreateVehicle" asp-controller="Home" method="post">
+    <div class="mb-3">
+        <label asp-for="ModelName"></label>
+        <input asp-for="ModelName">
+        <span asp-validation-for="ModelName"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Color"></label>
+        <input asp-for="Color">
+        <span asp-validation-for="Color"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Year"></label>
+        <input asp-for="Year">
+        <span asp-validation-for="Year"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Transmission"></label>
+        <input asp-for="Transmission">
+        <span asp-validation-for="Transmission"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="AWD"></label>
+        <input asp-for="AWD">
+        <span asp-validation-for="AWD"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="MakerId">Maker</label>
+        <select asp-for="MakerId">
+            @foreach (Maker item in ViewBag.AllMakers)
+            {
+                <option value=@item.MakerId>@item.Name</option>
+            }
+        </select>
+        <span asp-validation-for="MakerId"></span>
+    </div>
+    <button class="btn btn-primary">Submit</button>
+</form>

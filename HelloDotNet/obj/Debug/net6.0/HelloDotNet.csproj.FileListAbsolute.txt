@@ -1,0 +1,15 @@
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/bin/Debug/net6.0/HelloDotNet
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/bin/Debug/net6.0/HelloDotNet.deps.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/bin/Debug/net6.0/HelloDotNet.runtimeconfig.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/bin/Debug/net6.0/HelloDotNet.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/bin/Debug/net6.0/HelloDotNet.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/obj/Debug/net6.0/HelloDotNet.csproj.AssemblyReference.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/obj/Debug/net6.0/HelloDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/obj/Debug/net6.0/HelloDotNet.AssemblyInfoInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/obj/Debug/net6.0/HelloDotNet.AssemblyInfo.cs
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/obj/Debug/net6.0/HelloDotNet.csproj.CoreCompileInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/obj/Debug/net6.0/HelloDotNet.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/obj/Debug/net6.0/refint/HelloDotNet.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/obj/Debug/net6.0/HelloDotNet.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/obj/Debug/net6.0/HelloDotNet.genruntimeconfig.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/HelloDotNet/obj/Debug/net6.0/ref/HelloDotNet.dll

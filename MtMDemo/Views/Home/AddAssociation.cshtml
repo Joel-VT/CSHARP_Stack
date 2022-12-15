@@ -1,0 +1,23 @@
+@model KnownMove
+
+<form asp-action="CreateAssociation" asp-controller="Home" method="post">
+    <div class="mb-3">
+        <label asp-for="PokemonId">Pokemon</label>
+        <select asp-for="PokemonId" class="form-select">
+            @foreach (Pokemon item in ViewBag.AllPokemon)
+            {
+                <option value=@item.PokemonId>@item.Name</option>
+            }
+        </select>
+    </div>
+    <div class="mb-3">
+        <label asp-for="MoveId">Move</label>
+        <select asp-for="MoveId" class="form-select">
+            @foreach (Move item in ViewBag.AllMoves)
+            {
+                <option value=@item.MoveId>@item.Name</option>
+            }
+        </select>
+    </div>
+    <button class="btn btn-primary">Add Move</button>
+</form>

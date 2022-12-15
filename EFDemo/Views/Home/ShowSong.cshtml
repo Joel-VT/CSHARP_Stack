@@ -1,0 +1,16 @@
+﻿@model Song
+@{
+    ViewData["Title"] = Model.Title;
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Year: @Model.Year</p>
+<p>Genre: @Model.Genre</p>
+<p>Artist: @Model.Artist</p>
+
+<div class="d-flex align-items-center">
+    <a asp-action="EditSong" asp-controller="Home" asp-route-id="@Model.MusicId" class="btn btn-warning me-2">Edit</a>
+    <form asp-action="DestroySong" asp-controller="home" asp-route-id="@Model.MusicId" method="post">
+        <button class="btn btn-danger">Delete</button>
+    </form>
+</div>

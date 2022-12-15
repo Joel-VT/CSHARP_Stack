@@ -1,0 +1,15 @@
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/bin/Debug/net6.0/Puzzle
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/bin/Debug/net6.0/Puzzle.deps.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/bin/Debug/net6.0/Puzzle.runtimeconfig.json
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/bin/Debug/net6.0/Puzzle.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/bin/Debug/net6.0/Puzzle.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/obj/Debug/net6.0/Puzzle.csproj.AssemblyReference.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/obj/Debug/net6.0/Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/obj/Debug/net6.0/Puzzle.AssemblyInfoInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/obj/Debug/net6.0/Puzzle.AssemblyInfo.cs
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/obj/Debug/net6.0/Puzzle.csproj.CoreCompileInputs.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/obj/Debug/net6.0/Puzzle.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/obj/Debug/net6.0/refint/Puzzle.dll
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/obj/Debug/net6.0/Puzzle.pdb
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/obj/Debug/net6.0/Puzzle.genruntimeconfig.cache
+/Users/joelvarghesethomas/Desktop/Projects/CSHARP_Stack/Puzzle/obj/Debug/net6.0/ref/Puzzle.dll
